@@ -1,0 +1,26 @@
+.bold_name {
+    font-size: medium;
+    font-weight: bold;
+}
+p{
+    color: white;
+}
+label{
+    color: white;
+}
+
+
+.input2{
+    border-radius: 10px;
+    position: absolute;
+    top: 600px;
+    left: 450px;
+    width: 500px;
+    height: 40px;
+    
+}
+
+body{
+    background-image: radial-gradient(circle at -11.24% 14.64%, #ff6bff 0, #ff69ff 12.5%, #ff65ff 25%, #f55eff 37.5%, #bc53f2 50%, #8447d7 62.5%, #4e3dbd 75%, #0035a6 87.5%, #002d92 100%);
+}
+
